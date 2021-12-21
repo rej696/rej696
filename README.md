@@ -8,7 +8,7 @@
 <!--[![Rowan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rej696&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rej696&langs_count=10&layout=compact&hide=assembly,scilab,html,css&exclude_repo=nand2tetris)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=rej696&langs_count=10&layout=compact&hide=assembly,scilab,html,css&exclude_repo=nand2tetris" alt="Rowan's Top Languages" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rej696&langs_count=10&layout=compact&hide=assembly,scilab,html,css&exclude_repo=nand2tetris" alt="Rowan's Top Languages" /></a>
 
 #### Learning Resources and Useful Links:
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
