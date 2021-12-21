@@ -6,7 +6,7 @@
 - 🤿 In 2022 I would like to take the plunge into open source software developement
 
 [![Rowan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rej696&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rej696&langs_count=10&layout=compact&hide=assembly,scilab,html&exclude_repo=nand2tetris)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rej696&langs_count=10&layout=compact&hide=assembly,scilab,html,css&exclude_repo=nand2tetris)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
