@@ -5,9 +5,8 @@
 - ⚡ I'm interested in safety critical embedded software, as well as functional programming
 - 🤿 In 2022 I would like to take the plunge into open source software developement
 
-| Stats | Languages |
-|---|---|
-[![Rowan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rej696&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rej696&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Rowan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rej696&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rej696&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
