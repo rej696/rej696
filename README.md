@@ -7,6 +7,7 @@
 
 #### Learning Resources and Useful Links:
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [Learn X in Y Minutes](https://learnxinyminutes.com/)
 
 
 <!--[![Rowan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rej696&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
