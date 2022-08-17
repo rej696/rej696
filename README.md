@@ -1,8 +1,8 @@
 ### Hi, I'm Rowan 👋
 
-- 🚂 I'm a Software Engineer at Capgemini Engineering, writing software for rail systems in C++
+- 🛰️ I'm an Embedded Software Engineer at AAC Clyde Space, writing software for CubeSats
 - 🎓 I'm currently studying a part time Computer Science Masters at the University of Bath
-- ⚡ I'm interested in safety critical embedded software, as well as functional programming
+- ⚡ I'm interested in safety/mission critical embedded software, as well as functional programming
 - 🤿 In 2022 I would like to take the plunge into open source software developement
 
 #### Learning Resources and Useful Links:
