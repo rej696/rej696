@@ -3,7 +3,7 @@
 - 🛰️ I'm an Embedded Software Engineer at AAC Clyde Space, writing software for CubeSats
 - 🎓 I'm currently studying a part time Computer Science Masters at the University of Bath
 - ⚡ I'm interested in safety/mission critical embedded software, as well as functional programming
-- 🤿 In 2022 I would like to take the plunge into open source software developement
+- 🌱 I am keen to get started in open source software developement
 
 #### Learning Resources and Useful Links:
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
