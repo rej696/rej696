@@ -2,6 +2,8 @@
 
 I'm an Embedded Software Engineer at AAC Clyde Space, writing software for CubeSats 🛰️
 
+Checkout my website: https://rej696.github.io/blog/
+
 #### In 2025 I want to learn:
 - 🎵 Digital signal processing to build synthesizers for the daisy platform
 - 🎮 Game development using Lua and PICO-8/Love2D
