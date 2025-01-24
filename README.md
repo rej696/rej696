@@ -21,7 +21,8 @@ Checkout my website: https://rej696.github.io/blog/
 - [Modern Embedded Systems Programming Course](https://www.state-machine.com/video-course)
 - [Beej's guide to C programming](https://beej.us/guide/bgc/html/split/)/
 - [Makefile Tutorial](https://makefiletutorial.com/#top)
-- [LinkerScript Tutorail](https://interrupt.memfault.com/blog/how-to-write-linker-scripts-for-firmware)
+- [LinkerScript Blog Post](https://interrupt.memfault.com/blog/how-to-write-linker-scripts-for-firmware)
+- [LinkerScript Tutorial](https://allthingsembedded.com/post/2020-04-11-mastering-the-gnu-linker-script/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
 - [Nand2Tetris](https://www.nand2tetris.org/)
