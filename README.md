@@ -1,15 +1,14 @@
 ### Hi, I'm Rowan 👋
 
-I'm an Embedded Software Engineer at AAC Clyde Space, writing software for CubeSats 🛰️
+I'm an Embedded Software Engineer
 
 Checkout my website: https://rej696.github.io/blog/
 
-#### In 2025 I want to learn:
-- 🎵 Digital signal processing to build synthesizers for the daisy platform
-- 🎮 Game development using Lua and PICO-8/Love2D
-- ⚡ Zig for baremetal embedded programming
-- 🐪 Perl for scripting
-- 🐧 Embedded linux
+#### In 2025 I want to:
+- 🎵 Learn digital signal processing to build synthesizers
+- 🎮 Develop a game using Lua and PICO-8/Love2D/PlayDate
+- ⚡ Try Zig for baremetal embedded programming
+- 🐪 Extend my scripting skills with Perl
 
 #### I like and/or am proficient in:
 - C for embedded systems development (Baremetal, FreeRTOS, STM32)
